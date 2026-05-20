@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Oil Trade Network</title>
+    <!-- Use the new, UI-friendly CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Cytoscape core -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.26.0/cytoscape.min.js"></script>
+    <!-- WebCola layout algorithms (needed for 'cola' layout) -->
+    <script src="https://unpkg.com/webcola/WebCola/cola.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/cytoscape-cola@2.4.0/cytoscape-cola.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Global Oil Trade Network</h2>
+        <div class="graph-card">
+            <div class="header">
+                <span class="label">Hovered Country: </span>
+                <span id="hovered-country" class="value">None</span>
+            </div>
+            <!-- Cytoscape container -->
+            <div id="cy"></div>
+        </div>
+    </div>
+    
+    <!-- Setup graph -->
+    <script src="script.js"></script>
+</body>
+</html>
