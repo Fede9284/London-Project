@@ -1,0 +1,3793 @@
+[
+  {
+    "data": {
+      "id": "Algeria",
+      "label": "Algeria",
+      "size": 12.10669266671317,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Angola",
+      "label": "Angola",
+      "size": 26.13766403145756,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 13.06883201572878,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Argentina",
+      "label": "Argentina",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Aruba",
+      "label": "Aruba",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Australia",
+      "label": "Australia",
+      "size": 12.060483782182274,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Bahamas",
+      "label": "Bahamas",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Bahrain",
+      "label": "Bahrain",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Belgium",
+      "label": "Belgium",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Bonaire",
+      "label": "Bonaire",
+      "size": 10.038041665625183,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Brazil",
+      "label": "Brazil",
+      "size": 19.863576115734098,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 9.931788057867049,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Bulgaria",
+      "label": "Bulgaria",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Cameroon",
+      "label": "Cameroon",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Canada",
+      "label": "Canada",
+      "size": 12.0913832024906,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Canary Islands",
+      "label": "Canary Islands",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Chile",
+      "label": "Chile",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "China",
+      "label": "China",
+      "size": 28.42411411759583,
+      "color": "#f3c1d6",
+      "color_chosen": "#ffffff",
+      "background_color": "#50123b #D1085C #D1085C",
+      "background_color_chosen": "#573b56 #D1085C #D1085C",
+      "border_color": "#D1085C",
+      "border_color_chosen": "#D1085C",
+      "font_size": 14.212057058797916,
+      "region_color": "#D1085C"
+    }
+  },
+  {
+    "data": {
+      "id": "Colombia",
+      "label": "Colombia",
+      "size": 16.78329259800725,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8.391646299003625,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Congo (Republic)",
+      "label": "Congo (Republic)",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Cote d'Ivoire",
+      "label": "Cote d'Ivoire",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Curacao",
+      "label": "Curacao",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Denmark",
+      "label": "Denmark",
+      "size": 14.211310363169497,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Ecuador",
+      "label": "Ecuador",
+      "size": 10.926976543409681,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Egypt",
+      "label": "Egypt",
+      "size": 30.132295534741832,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 15.066147767370916,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Equatorial Guinea",
+      "label": "Equatorial Guinea",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Estonia",
+      "label": "Estonia",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Finland",
+      "label": "Finland",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "France",
+      "label": "France",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Gabon",
+      "label": "Gabon",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Georgia",
+      "label": "Georgia",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Germany",
+      "label": "Germany",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Ghana",
+      "label": "Ghana",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Gibraltar",
+      "label": "Gibraltar",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Greece",
+      "label": "Greece",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Hong Kong",
+      "label": "Hong Kong",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "India",
+      "label": "India",
+      "size": 11.40783809496306,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Indonesia",
+      "label": "Indonesia",
+      "size": 14.544942011064679,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Iran",
+      "label": "Iran",
+      "size": 28.36038658956889,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 14.180193294784445,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Iraq",
+      "label": "Iraq",
+      "size": 38.261151910188914,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 19.130575955094457,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Italy",
+      "label": "Italy",
+      "size": 12.145807753844844,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Japan",
+      "label": "Japan",
+      "size": 21.089039256730413,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 10.544519628365206,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Korea (South)",
+      "label": "Korea (South)",
+      "size": 16.237136643046043,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8.118568321523021,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Kuwait",
+      "label": "Kuwait",
+      "size": 31.637231922940966,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 15.818615961470483,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Libya",
+      "label": "Libya",
+      "size": 13.00980793846312,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Lithuania",
+      "label": "Lithuania",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia",
+      "label": "Malaysia",
+      "size": 25.88726494374948,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 12.94363247187474,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Malta",
+      "label": "Malta",
+      "size": 14.010652728106544,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Mexico",
+      "label": "Mexico",
+      "size": 18.241290973089267,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 9.120645486544634,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Morocco",
+      "label": "Morocco",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Netherlands",
+      "label": "Netherlands",
+      "size": 20.77371251767851,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 10.386856258839256,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Nigeria",
+      "label": "Nigeria",
+      "size": 26.134655606268826,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 13.067327803134413,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Norway",
+      "label": "Norway",
+      "size": 11.083630047742858,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Oman",
+      "label": "Oman",
+      "size": 18.050683763681807,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 9.025341881840903,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Pakistan",
+      "label": "Pakistan",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Panama",
+      "label": "Panama",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Papua New Guinea",
+      "label": "Papua New Guinea",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Poland",
+      "label": "Poland",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Portugal",
+      "label": "Portugal",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Qatar",
+      "label": "Qatar",
+      "size": 20.19217766900158,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 10.09608883450079,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Romania",
+      "label": "Romania",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Russia",
+      "label": "Russia",
+      "size": 41.776498632260626,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 20.888249316130313,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Saudi Arabia",
+      "label": "Saudi Arabia",
+      "size": 60.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 25,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore",
+      "label": "Singapore",
+      "size": 41.47953859040527,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 20.739769295202635,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Sint Eustatius",
+      "label": "Sint Eustatius",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "South Africa",
+      "label": "South Africa",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Spain",
+      "label": "Spain",
+      "size": 10.68940240792355,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Sudan",
+      "label": "Sudan",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Sweden",
+      "label": "Sweden",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Taiwan",
+      "label": "Taiwan",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Thailand",
+      "label": "Thailand",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Togo",
+      "label": "Togo",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Turkey",
+      "label": "Turkey",
+      "size": 27.472097065543313,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 13.736048532771656,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Ukraine",
+      "label": "Ukraine",
+      "size": 10.0,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 8,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates",
+      "label": "United Arab Emirates",
+      "size": 52.714488018187446,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 25,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "United Kingdom",
+      "label": "United Kingdom",
+      "size": 22.016193593924413,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 11.008096796962207,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America",
+      "label": "United States of America",
+      "size": 51.62485379530075,
+      "color": "#f4f8f9",
+      "color_chosen": "#ffffff",
+      "background_color": "#515b69 #d4e2e8 #d4e2e8",
+      "background_color_chosen": "#585f6d #d4e2e8 #d4e2e8",
+      "border_color": "#d4e2e8",
+      "border_color_chosen": "#d4e2e8",
+      "font_size": 25,
+      "region_color": "#d4e2e8"
+    }
+  },
+  {
+    "data": {
+      "id": "Venezuela",
+      "label": "Venezuela",
+      "size": 36.10599676199327,
+      "color": "#c1ebf3",
+      "color_chosen": "#ffffff",
+      "background_color": "#0d4a62 #08B0D1 #08B0D1",
+      "background_color_chosen": "#365769 #08B0D1 #08B0D1",
+      "border_color": "#08B0D1",
+      "border_color_chosen": "#08B0D1",
+      "font_size": 18.052998380996634,
+      "region_color": "#08B0D1"
+    }
+  },
+  {
+    "data": {
+      "id": "Algeria_Algeria",
+      "source": "Algeria",
+      "target": "Algeria",
+      "weight": 303111064.16,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Angola_Angola",
+      "source": "Angola",
+      "target": "Angola",
+      "weight": 1713207398.22,
+      "width": 1.8956228349313062,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Angola_China",
+      "source": "Angola",
+      "target": "China",
+      "weight": 39556337.15,
+      "width": 1,
+      "colors": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d",
+      "colors_chosen": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d"
+    }
+  },
+  {
+    "data": {
+      "id": "Angola_Congo (Republic)",
+      "source": "Angola",
+      "target": "Congo (Republic)",
+      "weight": 46612118.47,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Angola_Nigeria",
+      "source": "Angola",
+      "target": "Nigeria",
+      "weight": 57466828.11,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Argentina_Argentina",
+      "source": "Argentina",
+      "target": "Argentina",
+      "weight": 98220460.62,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Aruba_Aruba",
+      "source": "Aruba",
+      "target": "Aruba",
+      "weight": 93312903.48,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Aruba_Venezuela",
+      "source": "Aruba",
+      "target": "Venezuela",
+      "weight": 94275625.61,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Australia_Australia",
+      "source": "Australia",
+      "target": "Australia",
+      "weight": 465712476.96,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Australia_Singapore",
+      "source": "Australia",
+      "target": "Singapore",
+      "weight": 39237372.67,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Bahamas_Bahamas",
+      "source": "Bahamas",
+      "target": "Bahamas",
+      "weight": 53802510.75,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Bahrain_Bahrain",
+      "source": "Bahrain",
+      "target": "Bahrain",
+      "weight": 88251943.23,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Bahrain_Saudi Arabia",
+      "source": "Bahrain",
+      "target": "Saudi Arabia",
+      "weight": 88698231.26,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Belgium_Belgium",
+      "source": "Belgium",
+      "target": "Belgium",
+      "weight": 34605433.31,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Bonaire_Bonaire",
+      "source": "Bonaire",
+      "target": "Bonaire",
+      "weight": 313750868.59,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Bonaire_Curacao",
+      "source": "Bonaire",
+      "target": "Curacao",
+      "weight": 44912196.23,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Brazil_Brazil",
+      "source": "Brazil",
+      "target": "Brazil",
+      "weight": 1260121867.21,
+      "width": 1.3942945779719347,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Brazil_Nigeria",
+      "source": "Brazil",
+      "target": "Nigeria",
+      "weight": 65921672.68,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Bulgaria_Russia",
+      "source": "Bulgaria",
+      "target": "Russia",
+      "weight": 139079023.77,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Cameroon_Cameroon",
+      "source": "Cameroon",
+      "target": "Cameroon",
+      "weight": 221114338.73,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Canada_Angola",
+      "source": "Canada",
+      "target": "Angola",
+      "weight": 34860983.81,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Canada_Canada",
+      "source": "Canada",
+      "target": "Canada",
+      "weight": 288460252.75,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Canada_Nigeria",
+      "source": "Canada",
+      "target": "Nigeria",
+      "weight": 45196277.03,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Canada_United States of America",
+      "source": "Canada",
+      "target": "United States of America",
+      "weight": 34481555.29,
+      "width": 1,
+      "colors": "#0e364b #1d4256 #2d4f61 #3c5b6c #4c6777 #5b7483 #6b808e #7a8c99 #8a99a4 #99a5af",
+      "colors_chosen": "#0e364b #1d4256 #2d4f61 #3c5b6c #4c6777 #5b7483 #6b808e #7a8c99 #8a99a4 #99a5af"
+    }
+  },
+  {
+    "data": {
+      "id": "Canary Islands_Angola",
+      "source": "Canary Islands",
+      "target": "Angola",
+      "weight": 72856956.6,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Canary Islands_Canary Islands",
+      "source": "Canary Islands",
+      "target": "Canary Islands",
+      "weight": 34550425.52,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Canary Islands_Nigeria",
+      "source": "Canary Islands",
+      "target": "Nigeria",
+      "weight": 199775626.22,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Chile_Argentina",
+      "source": "Chile",
+      "target": "Argentina",
+      "weight": 37288713.14,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Chile_Chile",
+      "source": "Chile",
+      "target": "Chile",
+      "weight": 148113777.85,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "China_China",
+      "source": "China",
+      "target": "China",
+      "weight": 1930938812.61,
+      "width": 2.1365374150506793,
+      "colors": "#361434 #411337 #4c123a #56113c #61103f #6c1042 #770f45 #810e47 #8c0d4a #970c4d",
+      "colors_chosen": "#361434 #411337 #4c123a #56113c #61103f #6c1042 #770f45 #810e47 #8c0d4a #970c4d"
+    }
+  },
+  {
+    "data": {
+      "id": "China_Hong Kong",
+      "source": "China",
+      "target": "Hong Kong",
+      "weight": 111693316.59,
+      "width": 1,
+      "colors": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f",
+      "colors_chosen": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "China_Korea (South)",
+      "source": "China",
+      "target": "Korea (South)",
+      "weight": 71245932.84,
+      "width": 1,
+      "colors": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f",
+      "colors_chosen": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "China_Malaysia",
+      "source": "China",
+      "target": "Malaysia",
+      "weight": 78910016.82000001,
+      "width": 1,
+      "colors": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f",
+      "colors_chosen": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "China_Russia",
+      "source": "China",
+      "target": "Russia",
+      "weight": 215432942.65,
+      "width": 1,
+      "colors": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f",
+      "colors_chosen": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "China_Saudi Arabia",
+      "source": "China",
+      "target": "Saudi Arabia",
+      "weight": 64275043.39,
+      "width": 1,
+      "colors": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f",
+      "colors_chosen": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "China_Singapore",
+      "source": "China",
+      "target": "Singapore",
+      "weight": 536382506.5,
+      "width": 1,
+      "colors": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f",
+      "colors_chosen": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "China_United Arab Emirates",
+      "source": "China",
+      "target": "United Arab Emirates",
+      "weight": 87231655.13,
+      "width": 1,
+      "colors": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f",
+      "colors_chosen": "#361434 #312040 #2c2c4c #273958 #224564 #1e516f #195d7b #146a87 #0f7693 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Colombia_Colombia",
+      "source": "Colombia",
+      "target": "Colombia",
+      "weight": 814494921.57,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Colombia_United States of America",
+      "source": "Colombia",
+      "target": "United States of America",
+      "weight": 53966782.81,
+      "width": 1,
+      "colors": "#0e364b #1d4256 #2d4f61 #3c5b6c #4c6777 #5b7483 #6b808e #7a8c99 #8a99a4 #99a5af",
+      "colors_chosen": "#0e364b #1d4256 #2d4f61 #3c5b6c #4c6777 #5b7483 #6b808e #7a8c99 #8a99a4 #99a5af"
+    }
+  },
+  {
+    "data": {
+      "id": "Congo (Republic)_Angola",
+      "source": "Congo (Republic)",
+      "target": "Angola",
+      "weight": 38585729.92,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Congo (Republic)_Congo (Republic)",
+      "source": "Congo (Republic)",
+      "target": "Congo (Republic)",
+      "weight": 253136148.1,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Cote d'Ivoire_Nigeria",
+      "source": "Cote d'Ivoire",
+      "target": "Nigeria",
+      "weight": 66489010.089999996,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Denmark_Denmark",
+      "source": "Denmark",
+      "target": "Denmark",
+      "weight": 282772811.53,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Denmark_Estonia",
+      "source": "Denmark",
+      "target": "Estonia",
+      "weight": 61239405.4,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Denmark_Norway",
+      "source": "Denmark",
+      "target": "Norway",
+      "weight": 66896288.74,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Denmark_Russia",
+      "source": "Denmark",
+      "target": "Russia",
+      "weight": 361710194.22,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Ecuador_Ecuador",
+      "source": "Ecuador",
+      "target": "Ecuador",
+      "weight": 368056790.55,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Egypt_Egypt",
+      "source": "Egypt",
+      "target": "Egypt",
+      "weight": 2582934283.91,
+      "width": 2.8579547431291137,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Egypt_Malta",
+      "source": "Egypt",
+      "target": "Malta",
+      "weight": 188064034.22,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Egypt_Saudi Arabia",
+      "source": "Egypt",
+      "target": "Saudi Arabia",
+      "weight": 59869744.55,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Egypt_Turkey",
+      "source": "Egypt",
+      "target": "Turkey",
+      "weight": 58365179.75,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Egypt_United Arab Emirates",
+      "source": "Egypt",
+      "target": "United Arab Emirates",
+      "weight": 36623191.01,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Equatorial Guinea_Nigeria",
+      "source": "Equatorial Guinea",
+      "target": "Nigeria",
+      "weight": 52261155.58,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Estonia_Estonia",
+      "source": "Estonia",
+      "target": "Estonia",
+      "weight": 176054292.7,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Estonia_Russia",
+      "source": "Estonia",
+      "target": "Russia",
+      "weight": 40865239.28,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Finland_Russia",
+      "source": "Finland",
+      "target": "Russia",
+      "weight": 185331376.59,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "France_Algeria",
+      "source": "France",
+      "target": "Algeria",
+      "weight": 65524643.44,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "France_France",
+      "source": "France",
+      "target": "France",
+      "weight": 62583167.58,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "France_Libya",
+      "source": "France",
+      "target": "Libya",
+      "weight": 35932806.25,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "France_Nigeria",
+      "source": "France",
+      "target": "Nigeria",
+      "weight": 39486239.19,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "France_Norway",
+      "source": "France",
+      "target": "Norway",
+      "weight": 34543258.64,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "France_United Kingdom",
+      "source": "France",
+      "target": "United Kingdom",
+      "weight": 91025768.22,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Germany_Germany",
+      "source": "Germany",
+      "target": "Germany",
+      "weight": 35477126.33,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Germany_Norway",
+      "source": "Germany",
+      "target": "Norway",
+      "weight": 57083490.81,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Germany_Russia",
+      "source": "Germany",
+      "target": "Russia",
+      "weight": 55427317.13,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Germany_United Kingdom",
+      "source": "Germany",
+      "target": "United Kingdom",
+      "weight": 83077802.49,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Ghana_Ghana",
+      "source": "Ghana",
+      "target": "Ghana",
+      "weight": 60548028.78,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Gibraltar_Algeria",
+      "source": "Gibraltar",
+      "target": "Algeria",
+      "weight": 79570471.93,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Gibraltar_Nigeria",
+      "source": "Gibraltar",
+      "target": "Nigeria",
+      "weight": 114798852.67999999,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Greece_Egypt",
+      "source": "Greece",
+      "target": "Egypt",
+      "weight": 75023387.37,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Greece_Greece",
+      "source": "Greece",
+      "target": "Greece",
+      "weight": 162978868.19,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Greece_Turkey",
+      "source": "Greece",
+      "target": "Turkey",
+      "weight": 106298009.54,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Hong Kong_China",
+      "source": "Hong Kong",
+      "target": "China",
+      "weight": 59847520.89,
+      "width": 1,
+      "colors": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d",
+      "colors_chosen": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d"
+    }
+  },
+  {
+    "data": {
+      "id": "Hong Kong_Hong Kong",
+      "source": "Hong Kong",
+      "target": "Hong Kong",
+      "weight": 165687191.53,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Hong Kong_Singapore",
+      "source": "Hong Kong",
+      "target": "Singapore",
+      "weight": 38971724.77,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "India_India",
+      "source": "India",
+      "target": "India",
+      "weight": 184865858.58,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "India_Iran",
+      "source": "India",
+      "target": "Iran",
+      "weight": 37365348.04,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "India_Kuwait",
+      "source": "India",
+      "target": "Kuwait",
+      "weight": 70601812.17,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "India_Saudi Arabia",
+      "source": "India",
+      "target": "Saudi Arabia",
+      "weight": 143124644.85,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "India_United Arab Emirates",
+      "source": "India",
+      "target": "United Arab Emirates",
+      "weight": 247627666.14,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Indonesia_Indonesia",
+      "source": "Indonesia",
+      "target": "Indonesia",
+      "weight": 496571709.44,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Indonesia_Saudi Arabia",
+      "source": "Indonesia",
+      "target": "Saudi Arabia",
+      "weight": 44837701.24,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Indonesia_Singapore",
+      "source": "Indonesia",
+      "target": "Singapore",
+      "weight": 97840373.44,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Iran_Iran",
+      "source": "Iran",
+      "target": "Iran",
+      "weight": 2229676749.29,
+      "width": 2.467083766309285,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Iran_Saudi Arabia",
+      "source": "Iran",
+      "target": "Saudi Arabia",
+      "weight": 56939646.21,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Iran_United Arab Emirates",
+      "source": "Iran",
+      "target": "United Arab Emirates",
+      "weight": 78197184.78,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Iraq_Iraq",
+      "source": "Iraq",
+      "target": "Iraq",
+      "weight": 4799450300.16,
+      "width": 5.310476474450119,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Iraq_United Arab Emirates",
+      "source": "Iraq",
+      "target": "United Arab Emirates",
+      "weight": 48977046.79,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Italy_Algeria",
+      "source": "Italy",
+      "target": "Algeria",
+      "weight": 53564484.25,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Italy_Egypt",
+      "source": "Italy",
+      "target": "Egypt",
+      "weight": 136515012.99,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Italy_Italy",
+      "source": "Italy",
+      "target": "Italy",
+      "weight": 182471123.07,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Italy_Libya",
+      "source": "Italy",
+      "target": "Libya",
+      "weight": 142391215.44,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Italy_Malta",
+      "source": "Italy",
+      "target": "Malta",
+      "weight": 100991758.04,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Italy_Turkey",
+      "source": "Italy",
+      "target": "Turkey",
+      "weight": 186040428.27,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Japan_Japan",
+      "source": "Japan",
+      "target": "Japan",
+      "weight": 1000279270.58,
+      "width": 1.1067849862135524,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Japan_Korea (South)",
+      "source": "Japan",
+      "target": "Korea (South)",
+      "weight": 62707218.5,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Japan_Malaysia",
+      "source": "Japan",
+      "target": "Malaysia",
+      "weight": 55612162.81,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Japan_Qatar",
+      "source": "Japan",
+      "target": "Qatar",
+      "weight": 39139718.07,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Japan_Russia",
+      "source": "Japan",
+      "target": "Russia",
+      "weight": 293177263.21,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Japan_Saudi Arabia",
+      "source": "Japan",
+      "target": "Saudi Arabia",
+      "weight": 138569194.91,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Japan_Singapore",
+      "source": "Japan",
+      "target": "Singapore",
+      "weight": 137287495.73,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Japan_United Arab Emirates",
+      "source": "Japan",
+      "target": "United Arab Emirates",
+      "weight": 240869199.43,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Korea (South)_Korea (South)",
+      "source": "Korea (South)",
+      "target": "Korea (South)",
+      "weight": 549946477.08,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Korea (South)_Malaysia",
+      "source": "Korea (South)",
+      "target": "Malaysia",
+      "weight": 48345359.91,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Korea (South)_Russia",
+      "source": "Korea (South)",
+      "target": "Russia",
+      "weight": 189055521.17,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Korea (South)_Saudi Arabia",
+      "source": "Korea (South)",
+      "target": "Saudi Arabia",
+      "weight": 37486792.48,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Korea (South)_Singapore",
+      "source": "Korea (South)",
+      "target": "Singapore",
+      "weight": 192710341.02,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Korea (South)_United Arab Emirates",
+      "source": "Korea (South)",
+      "target": "United Arab Emirates",
+      "weight": 57927600.59,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Kuwait_Kuwait",
+      "source": "Kuwait",
+      "target": "Kuwait",
+      "weight": 2754750454.36,
+      "width": 3.0480652087118947,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Kuwait_Qatar",
+      "source": "Kuwait",
+      "target": "Qatar",
+      "weight": 57943739.29,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Kuwait_Saudi Arabia",
+      "source": "Kuwait",
+      "target": "Saudi Arabia",
+      "weight": 94479888.5,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Kuwait_United Arab Emirates",
+      "source": "Kuwait",
+      "target": "United Arab Emirates",
+      "weight": 103785223.67,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Libya_Libya",
+      "source": "Libya",
+      "target": "Libya",
+      "weight": 392398805.38,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Lithuania_Lithuania",
+      "source": "Lithuania",
+      "target": "Lithuania",
+      "weight": 53034017.910000004,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Lithuania_Russia",
+      "source": "Lithuania",
+      "target": "Russia",
+      "weight": 79989752.67,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Angola",
+      "source": "Malaysia",
+      "target": "Angola",
+      "weight": 215639980.17,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Indonesia",
+      "source": "Malaysia",
+      "target": "Indonesia",
+      "weight": 66519289.14,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Iran",
+      "source": "Malaysia",
+      "target": "Iran",
+      "weight": 47048456.72,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Kuwait",
+      "source": "Malaysia",
+      "target": "Kuwait",
+      "weight": 74001436.28,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Malaysia",
+      "source": "Malaysia",
+      "target": "Malaysia",
+      "weight": 590922124.24,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Nigeria",
+      "source": "Malaysia",
+      "target": "Nigeria",
+      "weight": 126478890.33,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Oman",
+      "source": "Malaysia",
+      "target": "Oman",
+      "weight": 116702048.03,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Qatar",
+      "source": "Malaysia",
+      "target": "Qatar",
+      "weight": 72851702.99,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Saudi Arabia",
+      "source": "Malaysia",
+      "target": "Saudi Arabia",
+      "weight": 381604823.27,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Singapore",
+      "source": "Malaysia",
+      "target": "Singapore",
+      "weight": 610303583.36,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_Sudan",
+      "source": "Malaysia",
+      "target": "Sudan",
+      "weight": 37069540.55,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malaysia_United Arab Emirates",
+      "source": "Malaysia",
+      "target": "United Arab Emirates",
+      "weight": 406015098.69,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malta_Algeria",
+      "source": "Malta",
+      "target": "Algeria",
+      "weight": 36620039.87,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malta_Egypt",
+      "source": "Malta",
+      "target": "Egypt",
+      "weight": 121800048.78,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malta_Libya",
+      "source": "Malta",
+      "target": "Libya",
+      "weight": 126514030.38,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malta_Malta",
+      "source": "Malta",
+      "target": "Malta",
+      "weight": 317223876.16,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Malta_Turkey",
+      "source": "Malta",
+      "target": "Turkey",
+      "weight": 101514550.88,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Mexico_Mexico",
+      "source": "Mexico",
+      "target": "Mexico",
+      "weight": 687467990.81,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Mexico_United States of America",
+      "source": "Mexico",
+      "target": "United States of America",
+      "weight": 292366085.74,
+      "width": 1,
+      "colors": "#0e364b #1d4256 #2d4f61 #3c5b6c #4c6777 #5b7483 #6b808e #7a8c99 #8a99a4 #99a5af",
+      "colors_chosen": "#0e364b #1d4256 #2d4f61 #3c5b6c #4c6777 #5b7483 #6b808e #7a8c99 #8a99a4 #99a5af"
+    }
+  },
+  {
+    "data": {
+      "id": "Morocco_Nigeria",
+      "source": "Morocco",
+      "target": "Nigeria",
+      "weight": 79913184.92999999,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Netherlands_Angola",
+      "source": "Netherlands",
+      "target": "Angola",
+      "weight": 35807239.11,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Netherlands_Belgium",
+      "source": "Netherlands",
+      "target": "Belgium",
+      "weight": 53211849.21,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Netherlands_Denmark",
+      "source": "Netherlands",
+      "target": "Denmark",
+      "weight": 177271028.95,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Netherlands_Netherlands",
+      "source": "Netherlands",
+      "target": "Netherlands",
+      "weight": 857178416.27,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Netherlands_Nigeria",
+      "source": "Netherlands",
+      "target": "Nigeria",
+      "weight": 73416404.06,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Netherlands_Norway",
+      "source": "Netherlands",
+      "target": "Norway",
+      "weight": 243764718.91,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Netherlands_Russia",
+      "source": "Netherlands",
+      "target": "Russia",
+      "weight": 241760012.83,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Netherlands_United Kingdom",
+      "source": "Netherlands",
+      "target": "United Kingdom",
+      "weight": 261794001.33,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Nigeria_Nigeria",
+      "source": "Nigeria",
+      "target": "Nigeria",
+      "weight": 1406566560.52,
+      "width": 1.556332113521556,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Norway_Norway",
+      "source": "Norway",
+      "target": "Norway",
+      "weight": 92359625.22,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Oman_China",
+      "source": "Oman",
+      "target": "China",
+      "weight": 41173943.37,
+      "width": 1,
+      "colors": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d",
+      "colors_chosen": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d"
+    }
+  },
+  {
+    "data": {
+      "id": "Oman_Oman",
+      "source": "Oman",
+      "target": "Oman",
+      "weight": 818281861.21,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Oman_Saudi Arabia",
+      "source": "Oman",
+      "target": "Saudi Arabia",
+      "weight": 33976669.0,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Oman_United Arab Emirates",
+      "source": "Oman",
+      "target": "United Arab Emirates",
+      "weight": 56822787.15,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Pakistan_United Arab Emirates",
+      "source": "Pakistan",
+      "target": "United Arab Emirates",
+      "weight": 50025042.42,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Panama_Panama",
+      "source": "Panama",
+      "target": "Panama",
+      "weight": 77185321.52,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Papua New Guinea_Papua New Guinea",
+      "source": "Papua New Guinea",
+      "target": "Papua New Guinea",
+      "weight": 50048642.4,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Poland_Russia",
+      "source": "Poland",
+      "target": "Russia",
+      "weight": 75945231.42999999,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Portugal_Nigeria",
+      "source": "Portugal",
+      "target": "Nigeria",
+      "weight": 47036260.089999996,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Portugal_Portugal",
+      "source": "Portugal",
+      "target": "Portugal",
+      "weight": 60163070.18,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Qatar_Kuwait",
+      "source": "Qatar",
+      "target": "Kuwait",
+      "weight": 66601305.01,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Qatar_Qatar",
+      "source": "Qatar",
+      "target": "Qatar",
+      "weight": 629269156.71,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Qatar_Saudi Arabia",
+      "source": "Qatar",
+      "target": "Saudi Arabia",
+      "weight": 182390460.66,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Qatar_United Arab Emirates",
+      "source": "Qatar",
+      "target": "United Arab Emirates",
+      "weight": 180537579.05,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Romania_Russia",
+      "source": "Romania",
+      "target": "Russia",
+      "weight": 105995557.79,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Russia_Russia",
+      "source": "Russia",
+      "target": "Russia",
+      "weight": 4042864397.33,
+      "width": 4.473332346143305,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Russia_Ukraine",
+      "source": "Russia",
+      "target": "Ukraine",
+      "weight": 93250845.42999999,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Saudi Arabia_China",
+      "source": "Saudi Arabia",
+      "target": "China",
+      "weight": 34416649.95,
+      "width": 1,
+      "colors": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d",
+      "colors_chosen": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d"
+    }
+  },
+  {
+    "data": {
+      "id": "Saudi Arabia_Egypt",
+      "source": "Saudi Arabia",
+      "target": "Egypt",
+      "weight": 49962349.37,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Saudi Arabia_Kuwait",
+      "source": "Saudi Arabia",
+      "target": "Kuwait",
+      "weight": 64318937.32,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Saudi Arabia_Qatar",
+      "source": "Saudi Arabia",
+      "target": "Qatar",
+      "weight": 100786790.61,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Saudi Arabia_Saudi Arabia",
+      "source": "Saudi Arabia",
+      "target": "Saudi Arabia",
+      "weight": 9037701839.47,
+      "width": 10.0,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Saudi Arabia_Singapore",
+      "source": "Saudi Arabia",
+      "target": "Singapore",
+      "weight": 34431375.89,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Saudi Arabia_United Arab Emirates",
+      "source": "Saudi Arabia",
+      "target": "United Arab Emirates",
+      "weight": 307393923.63,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Angola",
+      "source": "Singapore",
+      "target": "Angola",
+      "weight": 305805507.21,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_China",
+      "source": "Singapore",
+      "target": "China",
+      "weight": 124759347.25,
+      "width": 1,
+      "colors": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d",
+      "colors_chosen": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Gabon",
+      "source": "Singapore",
+      "target": "Gabon",
+      "weight": 39542729.94,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Indonesia",
+      "source": "Singapore",
+      "target": "Indonesia",
+      "weight": 209425171.29,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Iran",
+      "source": "Singapore",
+      "target": "Iran",
+      "weight": 68133518.71,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Kuwait",
+      "source": "Singapore",
+      "target": "Kuwait",
+      "weight": 93115642.75,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Malaysia",
+      "source": "Singapore",
+      "target": "Malaysia",
+      "weight": 953148697.11,
+      "width": 1.0546361387442007,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Nigeria",
+      "source": "Singapore",
+      "target": "Nigeria",
+      "weight": 110586834.54,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Oman",
+      "source": "Singapore",
+      "target": "Oman",
+      "weight": 125253496.51,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Qatar",
+      "source": "Singapore",
+      "target": "Qatar",
+      "weight": 68804455.91,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Saudi Arabia",
+      "source": "Singapore",
+      "target": "Saudi Arabia",
+      "weight": 671788012.19,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Singapore",
+      "source": "Singapore",
+      "target": "Singapore",
+      "weight": 3225510314.62,
+      "width": 3.568949686449442,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_Sudan",
+      "source": "Singapore",
+      "target": "Sudan",
+      "weight": 56561828.96,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Singapore_United Arab Emirates",
+      "source": "Singapore",
+      "target": "United Arab Emirates",
+      "weight": 316739237.68,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Sint Eustatius_Sint Eustatius",
+      "source": "Sint Eustatius",
+      "target": "Sint Eustatius",
+      "weight": 157152281.65,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "South Africa_Angola",
+      "source": "South Africa",
+      "target": "Angola",
+      "weight": 130489882.81,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "South Africa_Nigeria",
+      "source": "South Africa",
+      "target": "Nigeria",
+      "weight": 184505568.46,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "South Africa_South Africa",
+      "source": "South Africa",
+      "target": "South Africa",
+      "weight": 63583926.69,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Spain_Algeria",
+      "source": "Spain",
+      "target": "Algeria",
+      "weight": 136612855.08,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Spain_Angola",
+      "source": "Spain",
+      "target": "Angola",
+      "weight": 40947289.63,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Spain_Gibraltar",
+      "source": "Spain",
+      "target": "Gibraltar",
+      "weight": 90745359.18,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Spain_Libya",
+      "source": "Spain",
+      "target": "Libya",
+      "weight": 39849385.97,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Spain_Nigeria",
+      "source": "Spain",
+      "target": "Nigeria",
+      "weight": 146237310.59,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Spain_Spain",
+      "source": "Spain",
+      "target": "Spain",
+      "weight": 136895339.46,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Spain_Turkey",
+      "source": "Spain",
+      "target": "Turkey",
+      "weight": 34327165.66,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Sweden_Denmark",
+      "source": "Sweden",
+      "target": "Denmark",
+      "weight": 52427228.79,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Sweden_Norway",
+      "source": "Sweden",
+      "target": "Norway",
+      "weight": 44018463.51,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Sweden_Russia",
+      "source": "Sweden",
+      "target": "Russia",
+      "weight": 71443234.59,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Sweden_Sweden",
+      "source": "Sweden",
+      "target": "Sweden",
+      "weight": 45084984.55,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Taiwan_Singapore",
+      "source": "Taiwan",
+      "target": "Singapore",
+      "weight": 71069017.58,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Thailand_Singapore",
+      "source": "Thailand",
+      "target": "Singapore",
+      "weight": 58531220.76,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Thailand_Thailand",
+      "source": "Thailand",
+      "target": "Thailand",
+      "weight": 139735395.47,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Togo_Nigeria",
+      "source": "Togo",
+      "target": "Nigeria",
+      "weight": 71707147.19,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Turkey_Egypt",
+      "source": "Turkey",
+      "target": "Egypt",
+      "weight": 104851811.33,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Turkey_Georgia",
+      "source": "Turkey",
+      "target": "Georgia",
+      "weight": 151827355.4,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Turkey_Russia",
+      "source": "Turkey",
+      "target": "Russia",
+      "weight": 1158651357.56,
+      "width": 1.2820198963633294,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Turkey_Turkey",
+      "source": "Turkey",
+      "target": "Turkey",
+      "weight": 1529860899.33,
+      "width": 1.6927543378878673,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Turkey_Ukraine",
+      "source": "Turkey",
+      "target": "Ukraine",
+      "weight": 74826990.53,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Ukraine_Russia",
+      "source": "Ukraine",
+      "target": "Russia",
+      "weight": 126156502.6,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Ukraine_Ukraine",
+      "source": "Ukraine",
+      "target": "Ukraine",
+      "weight": 58792678.22,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates_China",
+      "source": "United Arab Emirates",
+      "target": "China",
+      "weight": 64734191.0,
+      "width": 1,
+      "colors": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d",
+      "colors_chosen": "#0e364b #1d314b #2c2d4b #3c284c #4b234c #5a1f4c #691a4c #79154d #88114d #970c4d"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates_Egypt",
+      "source": "United Arab Emirates",
+      "target": "Egypt",
+      "weight": 62087368.33,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates_Iran",
+      "source": "United Arab Emirates",
+      "target": "Iran",
+      "weight": 620350573.18,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates_Iraq",
+      "source": "United Arab Emirates",
+      "target": "Iraq",
+      "weight": 121227814.89,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates_Kuwait",
+      "source": "United Arab Emirates",
+      "target": "Kuwait",
+      "weight": 545023733.77,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates_Oman",
+      "source": "United Arab Emirates",
+      "target": "Oman",
+      "weight": 163840204.77,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates_Qatar",
+      "source": "United Arab Emirates",
+      "target": "Qatar",
+      "weight": 693258654.01,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates_Saudi Arabia",
+      "source": "United Arab Emirates",
+      "target": "Saudi Arabia",
+      "weight": 3359018511.67,
+      "width": 3.716673299621692,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates_Singapore",
+      "source": "United Arab Emirates",
+      "target": "Singapore",
+      "weight": 70259247.32,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Arab Emirates_United Arab Emirates",
+      "source": "United Arab Emirates",
+      "target": "United Arab Emirates",
+      "weight": 5312612930.38,
+      "width": 5.878278598634926,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Kingdom_Denmark",
+      "source": "United Kingdom",
+      "target": "Denmark",
+      "weight": 62652857.18,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Kingdom_Netherlands",
+      "source": "United Kingdom",
+      "target": "Netherlands",
+      "weight": 78448569.32000001,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Kingdom_Nigeria",
+      "source": "United Kingdom",
+      "target": "Nigeria",
+      "weight": 75274185.12,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Kingdom_Norway",
+      "source": "United Kingdom",
+      "target": "Norway",
+      "weight": 188764797.76,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Kingdom_Russia",
+      "source": "United Kingdom",
+      "target": "Russia",
+      "weight": 127697242.36,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United Kingdom_United Kingdom",
+      "source": "United Kingdom",
+      "target": "United Kingdom",
+      "weight": 1132942088.05,
+      "width": 1.253573207186529,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Angola",
+      "source": "United States of America",
+      "target": "Angola",
+      "weight": 113984342.38,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Aruba",
+      "source": "United States of America",
+      "target": "Aruba",
+      "weight": 78420362.46,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Bahamas",
+      "source": "United States of America",
+      "target": "Bahamas",
+      "weight": 281847222.44,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Brazil",
+      "source": "United States of America",
+      "target": "Brazil",
+      "weight": 46851173.0,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Canada",
+      "source": "United States of America",
+      "target": "Canada",
+      "weight": 284183124.37,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Colombia",
+      "source": "United States of America",
+      "target": "Colombia",
+      "weight": 196762880.37,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Curacao",
+      "source": "United States of America",
+      "target": "Curacao",
+      "weight": 102270257.02,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Ecuador",
+      "source": "United States of America",
+      "target": "Ecuador",
+      "weight": 60666993.77,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Mexico",
+      "source": "United States of America",
+      "target": "Mexico",
+      "weight": 553193231.44,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Nigeria",
+      "source": "United States of America",
+      "target": "Nigeria",
+      "weight": 188294002.99,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Panama",
+      "source": "United States of America",
+      "target": "Panama",
+      "weight": 207251959.77,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_United States of America",
+      "source": "United States of America",
+      "target": "United States of America",
+      "weight": 7514426758.74,
+      "width": 8.314532712201835,
+      "colors": "#364050 #414b5b #4c5665 #576270 #626d7a #6d7885 #78838f #838f9a #8e9aa4 #99a5af",
+      "colors_chosen": "#364050 #414b5b #4c5665 #576270 #626d7a #6d7885 #78838f #838f9a #8e9aa4 #99a5af"
+    }
+  },
+  {
+    "data": {
+      "id": "United States of America_Venezuela",
+      "source": "United States of America",
+      "target": "Venezuela",
+      "weight": 226327158.54,
+      "width": 1,
+      "colors": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f",
+      "colors_chosen": "#364050 #314759 #2c4f62 #27566a #225d73 #1e657c #196c85 #14738d #0f7b96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Venezuela_Aruba",
+      "source": "Venezuela",
+      "target": "Aruba",
+      "weight": 48139959.91,
+      "width": 1,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  },
+  {
+    "data": {
+      "id": "Venezuela_United States of America",
+      "source": "Venezuela",
+      "target": "United States of America",
+      "weight": 35382383.67,
+      "width": 1,
+      "colors": "#0e364b #1d4256 #2d4f61 #3c5b6c #4c6777 #5b7483 #6b808e #7a8c99 #8a99a4 #99a5af",
+      "colors_chosen": "#0e364b #1d4256 #2d4f61 #3c5b6c #4c6777 #5b7483 #6b808e #7a8c99 #8a99a4 #99a5af"
+    }
+  },
+  {
+    "data": {
+      "id": "Venezuela_Venezuela",
+      "source": "Venezuela",
+      "target": "Venezuela",
+      "weight": 4147718498.42,
+      "width": 4.589350890406489,
+      "colors": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f",
+      "colors_chosen": "#0e364b #0e3e54 #0d475e #0d4f67 #0c5870 #0c607a #0b6983 #0b718c #0a7a96 #0a829f"
+    }
+  }
+]

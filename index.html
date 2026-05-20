@@ -4,28 +4,142 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Global Oil Trade Network</title>
-    <!-- Use the new, UI-friendly CSS -->
     <link rel="stylesheet" href="style.css">
-    <!-- Cytoscape core -->
+    <!-- Cytoscape + layout -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.26.0/cytoscape.min.js"></script>
-    <!-- WebCola layout algorithms (needed for 'cola' layout) -->
     <script src="https://unpkg.com/webcola/WebCola/cola.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/cytoscape-cola@2.4.0/cytoscape-cola.js"></script>
 </head>
 <body>
-    <div class="container">
-        <h2>Global Oil Trade Network</h2>
-        <div class="graph-card">
-            <div class="header">
-                <span class="label">Hovered Country: </span>
-                <span id="hovered-country" class="value">None</span>
+    <div class="app">
+
+        <!-- ── Header ───────────────────────────── -->
+        <header class="app-header">
+            <div class="header-left">
+                <div class="header-icon">⬡</div>
+                <div>
+                    <h1>GLOBAL OIL TRADE NETWORK</h1>
+                    <div class="header-subtitle">Bilateral flows · Loaded barrels</div>
+                </div>
             </div>
-            <!-- Cytoscape container -->
-            <div id="cy"></div>
+            <div class="header-stats">
+                <div class="stat-pill">
+                    <span class="stat-num" id="stat-nodes">—</span>
+                    <span class="stat-label">Countries</span>
+                </div>
+                <div class="stat-pill">
+                    <span class="stat-num" id="stat-edges">—</span>
+                    <span class="stat-label">Trade Links</span>
+                </div>
+                <div class="stat-pill">
+                    <span class="stat-num hover-country" id="hover-label">None</span>
+                    <span class="stat-label">Hovered</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- ── Body ─────────────────────────────── -->
+        <div class="app-body">
+
+            <!-- ── Sidebar ──────────────────────── -->
+            <aside class="sidebar">
+
+                <!-- Search -->
+                <div class="sidebar-section">
+                    <div class="sidebar-title">Search Country</div>
+                    <input type="text" id="search-input" class="filter-input" placeholder="Type to search…" autocomplete="off">
+                </div>
+
+                <!-- Region filter -->
+                <div class="sidebar-section">
+                    <div class="sidebar-title">Filter by Region</div>
+                    <div class="region-list" id="region-filters">
+                        <!-- Populated by script.js -->
+                    </div>
+                </div>
+
+                <!-- Min size -->
+                <div class="sidebar-section">
+                    <div class="sidebar-title">Min Trade Volume</div>
+                    <div class="slider-row">
+                        <input type="range" id="size-filter" class="slider" min="10" max="60" value="10" step="1">
+                        <span class="slider-val" id="size-value">10</span>
+                    </div>
+                    <div class="slider-hint">Hide nodes smaller than <span id="size-hint">10</span></div>
+                </div>
+
+                <!-- Options -->
+                <div class="sidebar-section">
+                    <div class="sidebar-title">Options</div>
+                    <label class="toggle-row">
+                        <span>Show cross-region links</span>
+                        <input type="checkbox" id="cross-edges" checked>
+                        <span class="toggle-track"><span class="toggle-thumb"></span></span>
+                    </label>
+                    <label class="toggle-row">
+                        <span>Hide self-loops</span>
+                        <input type="checkbox" id="hide-loops">
+                        <span class="toggle-track"><span class="toggle-thumb"></span></span>
+                    </label>
+                    <button class="btn-reset" id="reset-btn">↺ Reset All Filters</button>
+                </div>
+
+                <!-- Legend -->
+                <div class="sidebar-section">
+                    <div class="sidebar-title">Legend</div>
+                    <div class="legend-list" id="legend-list">
+                        <!-- Populated by script.js -->
+                    </div>
+                    <div class="legend-edge-section">
+                        <div class="legend-edge-row">
+                            <div class="legend-edge-line thin"></div>
+                            <span>Low trade volume</span>
+                        </div>
+                        <div class="legend-edge-row">
+                            <div class="legend-edge-line thick"></div>
+                            <span>High trade volume</span>
+                        </div>
+                        <div class="legend-size-note">Node size = total trade</div>
+                    </div>
+                </div>
+
+            </aside>
+
+            <!-- ── Graph ────────────────────────── -->
+            <main class="graph-main">
+                <div id="cy"></div>
+
+                <!-- Loading overlay -->
+                <div class="graph-overlay" id="loading-overlay">
+                    <div class="loader"></div>
+                    <div>COMPUTING LAYOUT…</div>
+                </div>
+
+                <!-- Selected node info bar -->
+                <div class="info-bar" id="info-bar">
+                    <span class="info-bar-name" id="info-name"></span>
+                    <span class="info-bar-region" id="info-region"></span>
+                    <span class="info-bar-stat" id="info-degree"></span>
+                    <span class="info-bar-close" id="info-close">✕</span>
+                </div>
+            </main>
+
         </div>
     </div>
-    
-    <!-- Setup graph -->
+
+    <!-- Hover tooltip (positioned by JS) -->
+    <div class="node-tooltip" id="node-tooltip">
+        <div class="tooltip-name" id="tt-name"></div>
+        <div class="tooltip-row">
+            <span>Region</span>
+            <span class="tooltip-val" id="tt-region"></span>
+        </div>
+        <div class="tooltip-row">
+            <span>Connections</span>
+            <span class="tooltip-val" id="tt-degree"></span>
+        </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>
