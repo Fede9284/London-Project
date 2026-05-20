@@ -42,10 +42,103 @@ max_trade = nodes_df['total_trade'].max()
 nodes_df['diameter'] = nodes_df['total_trade'].apply(lambda x: max(10, (math.sqrt(x / np.pi) / math.sqrt(max_trade / np.pi)) * 60))
 
 # --- COLORING AND STYLING (Based on global_trade_network.py) ---
-background_color = '#010103'
-base_node_color = '#08B0D1'
-base_edge_color = '#39c3da'
-highlight_color = '#ff9936'
+region_color_dict = {
+    'Antarctica': '#7E6EBD',
+    'Africa': '#FB9038',
+    'Asia': '#D1085C',
+    'Europe': '#08B0D1',
+    'Americas': '#d4e2e8',
+    'Oceania': '#134DD1',
+    'Special categories and unspecified areas': '#F9F871'
+}
+
+ccode_to_region_dict = dict()
+
+regions = [
+    'Africa', 'Oceania', 'Antarctica', 'Americas', 'Asia', 'Europe',
+    'Special categories and unspecified areas'
+]
+
+ccode_lists = [
+    [
+        '012', '024', '072', '086', '108', '120', '132', '140', '148', '174',
+        '175', '178', '180', '204', '226', '231', '232', '260', '262', '266',
+        '270', '288', '324', '384', '404', '426', '430', '434', '450', '454',
+        '466', '478', '480', '504', '508', '516', '562', '566', '577', '624',
+        '638', '646', '654', '678', '686', '690', '694', '706', '710', '716',
+        '728', '729', '732', '736', '748', '768', '788', '800', '818', '834',
+        '854', '894'
+    ],
+    [
+        '016', '036', '090', '162', '166', '184', '242', '258', '296', '316',
+        '334', '520', '527', '540', '548', '554', '570', '574', '580', '581',
+        '583', '584', '585', '598', '612', '772', '776', '798', '876', '882'
+    ], ['010'],
+    [
+        '028', '032', '044', '052', '060', '068', '074', '076', '084', '092',
+        '124', '136', '152', '170', '188', '192', '212', '214', '218', '222',
+        '238', '239', '254', '304', '308', '312', '320', '328', '332', '340',
+        '388', '473', '474', '484', '500', '531', '533', '534', '535', '558',
+        '591', '600', '604', '630', '636', '637', '652', '659', '660', '662',
+        '663', '666', '670', '740', '780', '796', '840', '842', '850', '858',
+        '862'
+    ],
+    [
+        '004', '031', '048', '050', '051', '064', '096', '104', '116', '144',
+        '156', '196', '268', '275', '344', '356', '360', '364', '368', '376',
+        '392', '398', '400', '408', '410', '414', '417', '418', '422', '446',
+        '458', '462', '490', '496', '512', '524', '586', '608', '626', '634',
+        '682', '699', '702', '704', '760', '762', '764', '784', '792', '795',
+        '860', '887'
+    ],
+    [
+        '008', '020', '040', '056', '070', '100', '112', '191', '203', '208',
+        '233', '234', '246', '248', '250', '251', '276', '292', '300', '336',
+        '348', '352', '372', '380', '428', '438', '440', '442', '470', '492',
+        '498', '499', '528', '568', '578', '579', '616', '620', '642', '643',
+        '674', '680', '688', '703', '705', '724', '744', '752', '756', '757',
+        '804', '807', '826', '831', '832', '833'
+    ], ['837', '838', '839', '899']
+]
+for r, c in zip(regions, ccode_lists):
+    ccode_to_region_dict.update(dict.fromkeys(c, r))
+
+# Load reporters code to map country string to ccode
+try:
+    reporters = pd.read_csv('comtrade_codes/reporterAreas.csv')
+    partners = pd.read_csv('comtrade_codes/partnerAreas.csv')
+    
+    # format ccodes
+    for dataset in [reporters, partners]:
+        dataset['id'] = [
+            '00' + str(x) if len(str(x)) == 1 else '0' + str(x) if len(str(x)) == 2 else str(x)
+            for x in dataset['id'].tolist()
+        ]
+        
+    country_to_ccode = {row['text']: row['id'] for _, row in reporters.iterrows()}
+    country_to_ccode.update({row['text']: row['id'] for _, row in partners.iterrows()})
+    
+except FileNotFoundError:
+    country_to_ccode = {}
+
+def get_region_color(country_name):
+    base_default = '#08B0D1'
+    ccode = country_to_ccode.get(country_name)
+    if not ccode:
+        # Fallbacks for some countries that might be slightly misnamed in the Excel vs CSV
+        if 'United States' in country_name: ccode = '840' 
+        elif 'Russia' in country_name: ccode = '643'
+        elif 'China' in country_name: ccode = '156'
+        elif 'United Kingdom' in country_name: ccode = '826'
+        
+    if ccode:
+        region = ccode_to_region_dict.get(ccode)
+        if region:
+            return region_color_dict.get(region, base_default)
+    return base_default
+
+background_color = '#0f172a' # Tailwind Slate 900
+highlight_color = '#f8fafc' # Tailwind Slate 50
 
 def rgb_to_hex(rgb):
     return '#{:02x}{:02x}{:02x}'.format(int(rgb[0]), int(rgb[1]), int(rgb[2]))
@@ -69,25 +162,29 @@ for _, row in nodes_df.iterrows():
     country = row['country']
     size = row['diameter']
     
-    # We create gradients for node styling
-    bg_gradient_list = hex_gradient_list(base_node_color, background_color, 4)
-    bg_color_str = f"{bg_gradient_list[2]} {base_node_color} {base_node_color}"
+    node_color = get_region_color(country)
     
-    highlight_gradient_list = hex_gradient_list(highlight_color, background_color, 4)
-    highlight_color_str = f"{highlight_gradient_list[2]} {highlight_color} {highlight_color}"
+    # We create gradients for node styling
+    bg_gradient_list = hex_gradient_list(node_color, background_color, 4)
+    bg_color_str = f"{bg_gradient_list[2]} {node_color} {node_color}"
+    
+    highlight_color_str = hex_gradient_list(node_color, '#ffffff', 7)[3]
+    bg_highlight_gradient_list = hex_gradient_list(highlight_color_str, background_color, 4)
+    bg_highlight_color_str = f"{bg_highlight_gradient_list[2]} {node_color} {node_color}"
 
     elements.append({
         'data': {
             'id': country,
             'label': country,
             'size': size,
-            'color': '#ffffff',
-            'color_chosen': '#ffffff',
+            'color': hex_gradient_list(node_color, '#ffffff', 5)[3],
+            'color_chosen': hex_gradient_list(node_color, '#ffffff', 6)[5],
             'background_color': bg_color_str,
-            'background_color_chosen': highlight_color_str,
-            'border_color': base_node_color,
-            'border_color_chosen': highlight_color,
-            'font_size': min(25, max(8, size / 2))
+            'background_color_chosen': bg_highlight_color_str,
+            'border_color': node_color,
+            'border_color_chosen': node_color,
+            'font_size': min(25, max(8, size / 2)),
+            'region_color': node_color
         }
     })
 
@@ -95,7 +192,14 @@ for _, row in nodes_df.iterrows():
 max_weight = filtered_edge_data['weight'].max()
 for _, row in filtered_edge_data.iterrows():
     width = max(1, (row['weight'] / max_weight) * 10)
-    colors_str = hex_gradient_str(background_color, base_edge_color, 10)
+    
+    source_color = get_region_color(row['source'])
+    target_color = get_region_color(row['target'])
+    
+    source_gradient = hex_gradient_list(background_color, source_color, 11)[2]
+    target_gradient = hex_gradient_list(background_color, target_color, 11)[7]
+    
+    colors_str = hex_gradient_str(source_gradient, target_gradient, 10)
     
     elements.append({
         'data': {
@@ -105,12 +209,13 @@ for _, row in filtered_edge_data.iterrows():
             'weight': row['weight'],
             'width': width,
             'colors': colors_str,
-            'colors_chosen': hex_gradient_str(background_color, highlight_color, 10)
+            'colors_chosen': colors_str
         }
     })
 
 # --- CYTOSCAPE APP ---
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+#server = app.server
 
 default_stylesheet = [
     {
@@ -145,12 +250,35 @@ default_stylesheet = [
 ]
 
 app.layout = dbc.Container([
-    html.H2("Global Oil Trade Network", style={'color': '#ffffff', 'font-family': 'Courier New', 'padding-top': '20px', 'text-align': 'center'}),
+    html.H2(
+        "Global Oil Trade Network", 
+        style={
+            'color': highlight_color, 
+            'font-family': "'Inter', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif", 
+            'font-weight': '600',
+            'padding-top': '24px', 
+            'padding-bottom': '8px', 
+            'text-align': 'center'
+        }
+    ),
     html.Div([
         html.Div([
-            html.P('Hovered:', style={'color': '#ffffff', 'font-family': 'Courier New', 'display': 'inline-block', 'margin-right': '10px'}),
-            html.Span(id='mouseoverNodeData', style={'color': '#08B0D1', 'font-family': 'Courier New', 'font-weight': 'bold'})
-        ], style={'padding': '10px'}),
+            html.Span('Hovered Country:  ', 
+                      style={
+                          'color': '#94a3b8', # Slate 400
+                          'font-family': "'Inter', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif", 
+                          'font-size': '16px',
+                          'display': 'inline-block', 
+                          'margin-right': '12px'
+                      }),
+            html.Span(id='mouseoverNodeData', 
+                      style={
+                          'color': '#38bdf8', # Slate 400 highlight matching edges
+                          'font-family': "'Inter', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif", 
+                          'font-size': '18px',
+                          'font-weight': '700'
+                      })
+        ], style={'padding': '16px 24px', 'border-bottom': '1px solid #1e293b'}),
         cyto.Cytoscape(
             id='cytoscape',
             layout={'name': 'cola'}, # cola layout is good for force-directed clustering
@@ -162,8 +290,16 @@ app.layout = dbc.Container([
             elements=elements,
             stylesheet=default_stylesheet
         )
-    ], style={'width': '100%', 'background-color': background_color, 'border': '1px solid #333'})
-], fluid=True, style={'background-color': '#000000', 'min-height': '100vh'})
+    ], style={
+        'width': '100%', 
+        'background-color': background_color, 
+        'border': '1px solid #334155', # Slate 700
+        'border-radius': '12px',
+        'box-shadow': '0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -4px rgba(0, 0, 0, 0.5)',
+        'overflow': 'hidden',
+        'margin-bottom': '30px'
+    })
+], fluid=True, style={'background-color': '#020617', 'min-height': '100vh', 'padding': '20px'})
 
 @app.callback(
     Output('mouseoverNodeData', 'children'),
@@ -221,16 +357,16 @@ def generate_stylesheet(node):
                 'label': 'data(label)',
                 'background-fill': 'radial-gradient',
                 'background-gradient-stop-colors': 'data(background_color_chosen)',
-                'background-gradient-stop-positions': '0, 80, 90, 100',
-                'color': 'data(color)',
+                'background-gradient-stop-positions': '0, 98, 99, 100',
+                'color': 'data(color_chosen)',
                 'text-valign': 'center',
                 'text-halign': 'center',
                 'font-size': 'data(font_size)',
-                'border-color': 'data(border_color_chosen)',
-                'border-width': 2.5,
+                'border-color': 'data(border_color)',
+                'border-width': 1.5,
                 'width': 'data(size)',
                 'height': 'data(size)',
-                'opacity': 1.0,
+                'opacity': 0.98,
                 'z-index': 9999
             }
         }
@@ -243,7 +379,8 @@ def generate_stylesheet(node):
             stylesheet.append({
                 'selector': f'node[id = "{target_node}"]',
                 'style': {
-                    'opacity': 1.0
+                    'opacity': 0.98,
+                    'border-color': 'data(border_color)'
                 }
             })
             stylesheet.append({
@@ -251,7 +388,7 @@ def generate_stylesheet(node):
                 'style': {
                     'line-gradient-stop-colors': 'data(colors_chosen)',
                     'opacity': 0.8,
-                    'width': max(2, edge.get('width', 2) * 1.5)
+                    'width': 7
                 }
             })
             
