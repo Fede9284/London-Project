@@ -1,8 +1,0 @@
-pandas
-numpy
-dash
-dash-cytoscape
-dash-bootstrap-components
-networkx
-openpyxl
-gunicorn
